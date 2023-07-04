@@ -1,5 +1,8 @@
 # TRSS-Yunzai-Docker
-Docker版TRSS-Yunzai构建仓库
+
+> **`Docker`版`TRSS-Yunzai`构建仓库**
+
+> **原作者仓库：https://github.com/TimeRainStarSky/Yunzai**
 
 ## 教程链接：https://www.wsjj.top/archives/trss
 
