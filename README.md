@@ -3,6 +3,7 @@
 > **`Docker`版`TRSS-Yunzai`构建仓库**
 
 > **原作者仓库：https://github.com/TimeRainStarSky/Yunzai**
+> **`go-cqhttp`仓库：https://github.com/Mrs4s/go-cqhttp**
 
 ## 教程链接：https://www.wsjj.top/archives/trss
 
