@@ -16,4 +16,4 @@ docker run -itd --name yunzai --net=host --restart=always -v /you/path/:/Yunzai 
 docker run -itd --name go-cqhttp --net=host --restart=always -e SIGN_SERVER_URL="you sign server url" -v /you/path/:/data wangshengjj/trss-go-cqhttp
 ```
 
-![wangshengjj](https://www.wangshengjj.work/upload/2022/10/logo3.png)
+![wangshengjj](https://www.wsjj.top/upload/2022/10/logo3.png)
